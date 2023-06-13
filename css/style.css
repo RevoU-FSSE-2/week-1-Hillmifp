@@ -1,0 +1,26 @@
+.nav1 {
+    margin: auto;
+    text-align: left;
+    width: 100%;
+    font: sans-serif;
+    justify-content: space-between;
+    padding: auto;
+
+}
+
+body {
+    background: #F8F6F4;
+    font: 12px arial, sans-serif;
+}
+
+h1 {
+    color: grey;
+}
+
+#img-profile {
+    border-radius: 8%;
+}
+
+main {
+    
+}
